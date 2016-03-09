@@ -3,8 +3,10 @@ Follow along the various documents to build your own Agent-Meowski game using Ja
 
 ##The lessons are as follows:
 
-###Setup - Setting up the various basic functions/methods of the game such as environment, sound, character, points, movement and task accomplishments.
-####creating the classes for
+###Setup
+*Setting up the various basic functions/methods of the game such as environment, sound, character, points, movement and task accomplishments.*
+
+####Setup involves creating the classes for:
 
 * global stuff
 * level requirements/tasks
@@ -62,8 +64,8 @@ Follow along the various documents to build your own Agent-Meowski game using Ja
   - spritesheet
 * setup scene
 * define level requirements (tasks to be completed)
-  -navigate forest
-  -level up to lvl 3
+  - navigate forest
+  - level up to lvl 3
 	
 ###Level 3 - mid-boss fight - in the nest
 
@@ -74,8 +76,8 @@ Follow along the various documents to build your own Agent-Meowski game using Ja
   - spritesheet
 * setup scene
 * define level requirements (tasks to be completed)
-  -defeat mid-boss find out that kibble was taken by Biscuit
-  -learn of biscuit's weakness - if player decides to not kill birdman
+  - defeat mid-boss find out that kibble was taken by Biscuit
+  - learn of biscuit's weakness (if player decides to not kill birdman)
 	
 ###Level 4 - suburbia
 
@@ -91,7 +93,7 @@ Follow along the various documents to build your own Agent-Meowski game using Ja
   - level up to at least lvl 8
   - obtain object of biscuit's weakness (optional)
     - bacon! it will attract other dogs and has a time limit
-      -if times up then dogs will pile on meowski; they eat the bacon and meowski gets away
+      - if times up then dogs will pile on meowski; they eat the bacon and meowski gets away
 			
 ###Level 5 - in the dog house
 
